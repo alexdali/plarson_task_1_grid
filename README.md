@@ -1,3 +1,6 @@
+Реализация таска посредством  CSS Grid Layout
+
+
 Вопрос 1
 https://plarson.ru/tn1000x0/i/test800x605.png
 
