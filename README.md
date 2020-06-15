@@ -1,5 +1,8 @@
 Реализация таска посредством  CSS Grid Layout
 
+DEMO: https://musing-lichterman-c8cdd4.netlify.app/
+
+<hr/>
 
 Вопрос 1
 https://plarson.ru/tn1000x0/i/test800x605.png
